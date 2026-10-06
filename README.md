@@ -20,6 +20,7 @@ The first run is the one time you need a terminal. After that, package files, Ap
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/robbraxman/fixing-linux/main/install.sh | bash
+```
 
 You are asked for your password once. The rest is automatic. The script does not restart logind.
 
@@ -27,6 +28,7 @@ Undo the script changes:
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/robbraxman/fixing-linux/main/uninstall.sh | bash
+```
 
 Uninstall does not remove apps. It removes the Media and AppFiles links, the Files favorites, the IPv4 default, and the lid-close rule. Dock, wallpaper, and other visual choices stay. Change those in Settings.
 
