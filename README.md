@@ -58,7 +58,7 @@ Snap and Flatpak files are linked into `~/Documents/AppFiles`, and that folder i
 
 ## 5. Find my file
 
-Show Apps gets Find my file. It searches your user folders, including Documents, Media, and AppFiles. It does not search system folders.
+Show Apps gets Find my file. It searches your user folders, including Documents, Media, and AppFiles. It does not search system folders. This is a GUI Search tool.
 
 ## 6. Browser isolation
 
